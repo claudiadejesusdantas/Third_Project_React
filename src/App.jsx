@@ -1,5 +1,5 @@
 import { ApplicationRoutes } from "./Router"
-import { Footer } from "./pages/Footer"
+import { Footer } from "./components/Footer"
 import './global.css'
 import './styles/components/footer.css'
 
