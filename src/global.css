@@ -3,3 +3,18 @@
     box-sizing: border-box;
     font-family: 'Nunito', sans-serif;
 }
+
+:root{
+    --branco: #f4f4f2;
+    --bege: #d4cdc5;
+    --azulclaro: #5b88a5;
+    --azulescuro: #243a69;
+    --preto: #191013;
+}
+
+h1{
+    color: var(--azulescuro);
+    text-align: center;
+    margin: 1.5rem 0;
+    font-size: 3em;
+}
