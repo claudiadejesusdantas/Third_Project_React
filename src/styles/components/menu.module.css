@@ -1,5 +1,5 @@
 .menuContainer{
-    background-color: #fff;
+    background-color: var(--azulclaro);
     display: flex;
     gap: 10rem;
     align-items: center;
@@ -13,6 +13,6 @@
 
 .menuLink{
     text-decoration: none;
-    color: #191013;
+    color: var(--branco);
     font-size: 1.5rem;
 }
