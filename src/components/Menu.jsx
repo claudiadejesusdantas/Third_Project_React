@@ -14,6 +14,9 @@ export function Menu(){
             <li className={styles.menuItem}>
                 <Link className={styles.menuLink} to="/portfolio" >Portfolio</Link>
             </li>
+            <li className={styles.menuItem}>
+                <Link className={styles.menuLink} to="/contato" >Contato</Link>
+            </li>
         </ul>
     )
 }
