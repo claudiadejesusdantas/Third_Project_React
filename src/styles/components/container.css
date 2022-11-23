@@ -1,0 +1,25 @@
+.container{
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+.containerParagraph{
+    width: 100%;
+}
+
+.containerBio{
+    margin: 2rem;
+    display: flex;
+}
+
+.containerPesquisar{
+    display: flex;
+    text-align: center;
+    padding: 0 10rem;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.containerRedeSocial{
+    display: flex;
+}

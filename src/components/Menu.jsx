@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom"
-
 import styles from '../styles/components/menu.module.css'
 
 export function Menu(){

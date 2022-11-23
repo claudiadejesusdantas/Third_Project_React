@@ -1,0 +1,22 @@
+.nameRepo{
+    color: var(--branco);
+    width: auto;
+    font-size: 14px;
+    padding:5px;
+}
+
+.link{
+    color: var(--branco);
+    font-size: 14px;
+    padding:5px;
+    text-decoration: none;
+}
+
+.nameRepo:hover{
+    color: var(--branco);
+}
+
+.link:hover{
+    font-size: 50px;
+    color: var(--branco);
+}

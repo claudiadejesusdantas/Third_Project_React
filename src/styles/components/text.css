@@ -5,11 +5,14 @@
     text-align: center;
 }
 
+.paragrafo{
+    margin: 12px;
+}
+
 .containerText{
    display: flex;
    align-items: center;
    justify-content: space-between;
     margin: 2.5rem;
-    padding: 2.5rem;
 }
 

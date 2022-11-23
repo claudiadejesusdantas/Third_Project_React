@@ -1,5 +1,9 @@
+import { Biografia } from "../components/Biografia";
+
 export function Sobre(){
     return(
-        <h1> Sobre </h1>
+        <>
+        <Biografia/>
+        </>
     )
 }
