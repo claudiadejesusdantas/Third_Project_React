@@ -19,19 +19,19 @@ export function Inicio(){
             
             <div  className="cardInfo">
             <Subtitulo className="containerCard" texto="Sobre Mim" />
-            <PhotoIcon src="../../public/img/image_home.svg" alt="Ilustração de mulhere segurando um copo."/>
+            <PhotoIcon src="img/image_home.svg" alt="Ilustração de mulhere segurando um copo."/>
             <Paragrafo texto="Nesta seção conheça um pouquinho sobre mim."/>
             </div>
 
             <div  className="cardInfo">
             <Subtitulo className="containerCard" texto="Portfólio Estudo" />
-            <PhotoIcon src="../../public/img/project_home.svg" alt="ilustração mulher abraçada com um papel com sua foto"/>
+            <PhotoIcon src="img/project_home.svg" alt="ilustração mulher abraçada com um papel com sua foto"/>
             <Paragrafo texto="Conheça os meus projetos hospedados no Github."/>
             </div>
 
             <div className="cardInfo">
             <Subtitulo className="containerCard" texto="Fale Oi!" />
-            <PhotoIcon src="../../public/img/myContact_social_girl.svg" alt="ilustração de mulher rodeada de simbolos de redes sociais como facebook, twitter e instagram."/>
+            <PhotoIcon src="img/myContact_social_girl.svg" alt="ilustração de mulher rodeada de simbolos de redes sociais como facebook, twitter e instagram."/>
             <Paragrafo texto="Entre em contato através das minhas redes sociais."/>
             </div>
         </section>

@@ -7,7 +7,7 @@ export function Portfolio(){
     return(
         <>
         <h1> Portfolio de Estudo </h1>
-        <Photo src="../../public/img/myProjects_folders.svg" alt="Mulher sentada olhando para um notebook no seu colo."/>
+        <Photo src="img/myProjects_folders.svg" alt="Mulher sentada olhando para um notebook no seu colo."/>
         <ProcureRepositorio/>
         </>
     )
