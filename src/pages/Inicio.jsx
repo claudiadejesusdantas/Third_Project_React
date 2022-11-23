@@ -19,7 +19,7 @@ export function Inicio(){
             
             <div  className="cardInfo">
             <Subtitulo className="containerCard" texto="Sobre Mim" />
-            <PhotoIcon src="../../public/img/life_home.svg" alt="Ilustração de mulhere segurando um copo."/>
+            <PhotoIcon src="../../public/img/image_home.svg" alt="Ilustração de mulhere segurando um copo."/>
             <Paragrafo texto="Nesta seção conheça um pouquinho sobre mim."/>
             </div>
 
