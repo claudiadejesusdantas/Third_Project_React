@@ -40,5 +40,7 @@ Criei alguns módulos com props que seriam utilizados várias vezes:
 * Paragraph: Contém os textos da página < p >.
 
 
-
+### Pontos de melhoria:
+Colocar as informações salvas pelo input na firebase.
+Criar um if para os inputs não serem enviados vazios.
 
