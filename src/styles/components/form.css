@@ -1,0 +1,44 @@
+.formImg{
+    display: flex;
+    margin: auto;
+}
+
+.formInput{
+    width: 90%;
+    padding: 12px 32px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin-top: 2px;
+    text-align: center;
+}
+
+.formTextArea{
+    width: 90%;
+    height: 30vh;
+    text-align: center;
+    padding: 12px 32px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin-top: 2px;
+}
+
+.formButton{
+    background-color: var(--azulescuro);
+    color: var(--branco);
+    border: none;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 0;
+    width: 90%;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.formButton:hover{
+    background-color: var(--azulclaro);
+}

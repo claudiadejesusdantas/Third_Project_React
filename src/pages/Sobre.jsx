@@ -1,9 +1,9 @@
 import { Biografia } from "../components/Biografia";
 
-export function Sobre(){
-    return(
+export function Sobre() {
+    return (
         <>
-        <Biografia/>
+            <Biografia />
         </>
     )
 }
